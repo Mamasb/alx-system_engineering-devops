@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#displas "To infinity and beyond" indefinitely with
+#a sleep 2 in between eac iteration.
+
+while true
+do
+ echp "To infinity and beyond"
+ sleep 2
+done
