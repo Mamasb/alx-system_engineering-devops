@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-# Install and start A
+# Install and start #!/usr/bin/env bash
+# Install and start Apache server
+sudo service apache2 start
